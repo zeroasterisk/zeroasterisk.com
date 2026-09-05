@@ -166,3 +166,4 @@ See `CROSSPOST_PATTERN.md` for full workflow.
 ---
 
 **Built with ❤️ and ☕ in Boulder, Colorado**
+<!-- Production deployment Sat Sep  5 02:45:25 UTC 2026 -->
