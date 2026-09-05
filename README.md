@@ -1,5 +1,8 @@
 # zeroasterisk.com
 
+> **⚠️ Personal Hobby Project** — This is an independent, personal project by [Alan Blount](https://github.com/zeroasterisk). It is **not affiliated with, endorsed by, or supported by any employer, company, or organization**. No warranty; use at your own risk.
+
+
 Alan Blount's professional website - AI/ML Engineer at Google.
 
 [![Deploy](https://github.com/zeroasterisk/zeroasterisk.com/actions/workflows/deploy.yml/badge.svg)](https://github.com/zeroasterisk/zeroasterisk.com/actions/workflows/deploy.yml)
